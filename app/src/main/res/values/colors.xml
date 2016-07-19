@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#f95d74</color>
+    <color name="colorPrimaryDark">#d41942</color>
+    <color name="colorAccent">#ff9299</color>
+    <color name="likeColor">#f05f5c</color>
+    <color name="gray">#c9c7c7</color>
+    <color name="viewBg">#f1f5f8</color>
+    <color name="pin_title">#4c4c4c</color>
+    <color name="red">#990000</color>
+    <color name="green">#009900</color>
+    <color name="blue">#000099</color>
+    <color name="orange">#FF9900</color>
+</resources>
